@@ -1,5 +1,7 @@
 ﻿namespace Codility.Lessons.CountingElements
 {
+	// https://app.codility.com/demo/results/training6B2HZW-UU5/
+
 	// you can also use other imports, for example:
 	// using System.Collections.Generic;
 

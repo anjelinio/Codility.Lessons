@@ -9,7 +9,7 @@
 	// you can write to stdout for debugging purposes, e.g.
 	// Console.WriteLine("this is a debug message");
 
-	class Solution
+	class PermCheck
 	{
 		public int solution(int[] A)
 		{
